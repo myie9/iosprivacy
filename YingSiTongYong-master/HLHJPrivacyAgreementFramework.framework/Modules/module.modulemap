@@ -1,0 +1,6 @@
+framework module HLHJPrivacyAgreementFramework {
+  umbrella header "HLHJPrivacyAgreementFramework.h"
+
+  export *
+  module * { export * }
+}
